@@ -1,0 +1,43 @@
+#nav{
+    background-color: rgb(96, 112, 112);
+
+    height: 90px;
+    width: 100%;
+    position: fixed;
+}
+#sidebar{
+    width: 20%;
+    height: 100%;
+    background-color: rgb(208, 208, 105);
+    margin-right: 80%;
+    margin-top: 90px;
+    position: fixed;
+
+}
+#dashbord{
+    height: 1000vh;
+    width: 80%;
+    background-color: rgb(185, 177, 193);
+    position: static;
+    margin-left: 20%;
+}
+
+body {
+    margin: 0;
+
+}
+#image {
+    width: 50%;
+    align-items: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 30%;
+}
+h1 {
+    text-align: center;
+}
+#logo{
+    width: 80px;
+    position: fixed;
+    right: 0;
+}
